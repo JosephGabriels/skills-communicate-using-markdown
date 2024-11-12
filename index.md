@@ -11,3 +11,7 @@ Initializing empyt Git repository in /Users/skills/Projects/recipe-repository/.
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

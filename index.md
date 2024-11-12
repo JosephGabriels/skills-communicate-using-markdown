@@ -3,11 +3,11 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-''' 
+```
 $ git init
 Initializing empyt Git repository in /Users/skills/Projects/recipe-repository/.
-'''
+```
 
-'''javascript
+```javascript
 var myVar = "Hello, world!";
-'''s
+```
